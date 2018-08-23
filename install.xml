@@ -1,9 +1,9 @@
 <modification>
-  <name>Добавление товара в корзину по ссылке</name>
+  <name>GET Cart API</name>
   <version>1.0</version>
   <link>https://github.com/releu/get-cart-api</link>
-  <author>Releu</author>
-  <code>get-cart-apit</code>
+  <author>releu</author>
+  <code>get-cart-api</code>
 
   <file path="catalog/controller/product/product.php">
     <operation>
